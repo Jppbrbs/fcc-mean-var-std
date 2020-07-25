@@ -1,5 +1,25 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+#########################################
+# Created by: Joao Pedro Peters Barbosa #
+#                                       #
+# github: https://github.com/Jppbrbs    #
+# email: jpptrs@gmail.com               #
+#                                       #
+# Date: Jul/2020                        #
+#########################################
+
+
+"""
+freeCodeCamp Project1 - Data Analysis with Python Course
+"""
+
+
+
 import numpy as np
 import math
+import sys
 
 
 def calculate(list):
